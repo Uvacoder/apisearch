@@ -83,7 +83,7 @@
         {#if matches}
           {#each matches as category}
             <span
-              class="badge rounded-pill bg-dark text-light"
+              class="badge rounded-pill bg-dark text-light text-2xl"
               style="margin: 0.5%; padding: 5px;"
               on:click={() => getData(category)}>{category}</span
             >
