@@ -55,7 +55,7 @@
       <div class="col-md-9 m-auto">
         <h3 class="text-center mb-3">
           Public API Search
-          <a href="https://github.com/amalshaji/apisearch" target="_blank"
+          <a href="https://github.com/uvacoder/apisearch" target="_blank"
             ><img src="./github.svg" alt="github" /></a
           >
         </h3>
